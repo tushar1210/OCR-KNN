@@ -1,5 +1,5 @@
 # OCR-KNN
-## Optical Character Recognition using KNN and openCV . 
+## KNN based Optical Character Recognition using openCV . 
 
 ### Useful for :  
  1. Image Skewness  
